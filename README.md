@@ -1,2 +1,2 @@
-# The-Classic-Snake-
+# The "Classic Snake" Evolution
 A terminal snake game
